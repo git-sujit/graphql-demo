@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "10",
+      "firstName": "Sam",
+      "age": 21,
+      "companyId": "20",
+      "positionId": "30"
+    },
+    {
+      "id": "11",
+      "firstName": "Don",
+      "age": 31,
+      "companyId": "21",
+      "positionId": "31"
+    },
+    {
+      "id": "12",
+      "firstName": "Bill",
+      "age": 27,
+      "companyId": "22",
+      "positionId": "32"
+    },
+    {
+      "id": "13",
+      "firstName": "Tim",
+      "age": 62,
+      "companyId": "20",
+      "positionId": "30"
+    },
+    {
+      "id": "14",
+      "firstName": "Jeff",
+      "age": 47,
+      "companyId": "21",
+      "positionId": "31"
+    }
+  ],
+  "companies": [
+    {
+      "id": "20",
+      "name": "Microsoft",
+      "description": "Windows"
+    },
+    {
+      "id": "21",
+      "name": "Google",
+      "description": "Android"
+    },
+    {
+      "id": "22",
+      "name": "Apple",
+      "description": "iOS"
+    }
+  ],
+  "positions": [
+    {
+      "id": "30",
+      "name": "SE",
+      "description": "Software Engineer"
+    },
+    {
+      "id": "31",
+      "name": "SSE",
+      "description": "Senior Software Engineer"
+    },
+    {
+      "id": "32",
+      "name": "PSE",
+      "description": "Principal Software Engineer"
+    }
+  ]
+}
