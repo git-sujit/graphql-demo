@@ -1,9 +1,9 @@
-########## STEPS TO MAKE MODULE WORKING ##################
+## STEPS TO MAKE MODULE WORKING
 
-#1. npm install --save express express-graphql graphql lodash
-#2. npm install --save json-server (open source utility to server json as per db.json)
-#3. npm install --save axios (to make outside API call of json-server)
-#4. npm install --save nodemon (To bounce the server with latest code)
+##1. npm install --save express express-graphql graphql lodash
+##2. npm install --save json-server (open source utility to server json as per db.json)
+##3. npm install --save axios (to make outside API call of json-server)
+##4. npm install --save nodemon (To bounce the server with latest code)
 
 ## To start json-server
 npm run json:server
@@ -14,7 +14,7 @@ npm run dev
 ## To start server
 node server.js
 
-######################## TEST DATA ########################
+##TEST DATA
 ##
 {
   company(id: "20"){
