@@ -30,7 +30,7 @@ node server.js
     }
   }
 }
-##
+
 query Connected_Graph {
   company(id: "20"){
     id
@@ -50,7 +50,7 @@ query Connected_Graph {
     }
   }
 }
-##
+
 {
   MS: company(id: "20"){
     id
